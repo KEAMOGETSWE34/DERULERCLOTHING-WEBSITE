@@ -1,0 +1,16 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: antiquewhite;
+    color: rgba(0, 0, 0, 0.966);
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover , a:active {
+    color: whitesmoke
+}
